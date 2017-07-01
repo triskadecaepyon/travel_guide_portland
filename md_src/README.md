@@ -33,6 +33,25 @@ A guide to Portland, OR on places to travel, dine, and visit.
   - GPS: 45.531388, -122.694462
   - Notes: Paley's restaurant (3 of 3), with more of a fine French cuisine focus.  Great ambiance inside of a small converted-house restaurant.
 
+- __Clyde Common__
+- __Lardo__
+- __Tasty n Alder__
+- __The Original Dinerant__
+- __Portland City Grill__
+- __Alder St. Food Cart Pod__
+- __Mother's Bistro & Bar__
+- __Thai Peacock Restaurant__
+- __Sushi Ichiban__
+- __Hamlet__
+- __Salt & Straw__
+- __Serratto Restaurant and Bar__
+- __Le Pigeon__
+- __Pine State Biscuits Division__
+- __Pok Pok__
+- __The Waffle Window__
+- __Bazi Bierbrasserie__
+- __The Country Cat Dinner House and Bar__
+
 # Bars and Breweries
 
 - __Deschutes Brewery Portland Public House__
@@ -45,9 +64,29 @@ A guide to Portland, OR on places to travel, dine, and visit.
   - GPS: 45.525243, -122.681633
   - Notes: Best cocktails in the Pearl District, with interesting mixtures and materials.  Limited seating, get there early if needing a table (bar top is still decent)
 
+- __Rogue Distillery and Public House__
+- __TILT - Handcrafted Food & Drink, Built For The American Workforce__
+- __Henry's 12th Street Tavern__
+- __Multnomah Whiskey Library__
+- __Pope House Bourbon Lounge__
+- __Base Camp Brewing Company__
+- __Kachka__
+- __Hair of the Dog Brewing Co__
+- __Commons Brewery__
+- __Cascade Brewing Barrel House__
+- __APEX__
+- __Hopworks Urban Brewery__
+- __Laurelwood Public House & Brewery__
+
 
 # Cafés, Bakeries, and Coffee
 
+- __Barista__
+- __St. Honoré Bakery__
+- __Ken's Artisan Bakery__
+- __Kat's Crepes__
+_ __Sterling Coffee Roasters__
+- __Never Coffee__
 
 # Sights and experiences
 
