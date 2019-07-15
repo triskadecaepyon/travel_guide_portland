@@ -33,6 +33,11 @@ A guide to Portland, OR on places to travel, dine, and visit.
   - GPS: 45.531388, -122.694462
   - Notes: Paley's restaurant (3 of 3), with more of a fine French cuisine focus.  Great ambiance inside of a small converted-house restaurant.
 
+- __Olympia Provisions__
+  - Location:
+[107 SE Washington St, Portland, OR 97214 (503) 954-3663](https://g.co/kgs/9sxPVh)
+  - Notes: In an industrial building. MEAT!
+
 - __Clyde Common__
 - __Lardo__
 - __Tasty n Alder__
